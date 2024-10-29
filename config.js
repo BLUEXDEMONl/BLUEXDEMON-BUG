@@ -1,16 +1,16 @@
 require("./database/module")
 
 //GLOBAL PAYMENT
-global.storename = "𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽"
-global.dana = "2347041039367"
+global.storename = "Cyber boy"
+global.dana = "923404062939"
 global.qris = "-"
 
 
 // GLOBAL SETTING
-global.owner = "2347041039367"
-global.namabot = "𝙱𝙻𝚄𝙴x𝙳𝙴𝙼𝙾𝙽"
-global.nomorbot = "2347041039367"
-global.namaCreator = "𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽"
+global.owner = "923404062939"
+global.namabot = "Cyber boy"
+global.nomorbot = "923404062939"
+global.namaCreator = "Cyber boy"
 global.linkyt = "https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h"
 global.autoJoin = false
 global.antilink = false
